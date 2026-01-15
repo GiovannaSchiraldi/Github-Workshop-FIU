@@ -6,3 +6,4 @@
 ## Language Details
 Python: Great for data science and automation
 Javascript: Essential for web development
+My name is Giovanna Schiraldi
